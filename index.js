@@ -1,1 +1,1 @@
-console.log("🔥 Jenkins + GitHub working successfully!");
+console.log("🚀 NEW VERSION DEPLOYED!");
